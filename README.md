@@ -264,7 +264,7 @@ If you plan to open this repo for reuse, add a clear license before publishing b
 
 **Radman Qelichi**
 
-- Website: `https://radirex.ir`
+- Website: `https://radmanqelichi.ir`
 - GitHub: `https://github.com/RADIREX666`
 
 ---
